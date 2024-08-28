@@ -1,4 +1,4 @@
-#👋 Hello!
+👋 Hello!
 
 I'm doing coding stuffs in here
 
