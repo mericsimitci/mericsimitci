@@ -1,3 +1,5 @@
+# Meriç Simitçi
+
 👋 Hello!
 
 Cyber Security & coding enthusiast
