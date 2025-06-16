@@ -1,6 +1,6 @@
 # Meriç Simitçi
 
-Do what i wish for.
+<img src="https://i.pinimg.com/736x/d7/a6/b2/d7a6b2a7f6d40cd95d4b76c28354cc0e.jpg" />
 
 <details>
   <summary>Details</summary>
